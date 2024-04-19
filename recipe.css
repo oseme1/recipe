@@ -1,0 +1,61 @@
+body{
+    background-color: #b0b0b0;
+}
+.recipe{
+    width: 900px;
+    height: 245px;
+    border-top-left-radius: 13px;
+    border-top-right-radius: 13px;
+}
+.heading{
+    color: #a52a2a;
+    font-weight: 700;
+}
+.container{
+    background-color: #dcdcdc;
+    width: 900px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.division{
+  margin-top: 32px;
+  height: 275px;
+  width: 1px;
+  background-color: #6e6e6e;
+}
+.line{
+    width: 700px;
+    height: 1px;
+    background-color: #6e6e6e;
+}
+li{
+    list-style: none;
+}/*
+.ingredients{
+    float: left;
+}
+.directions{
+    float: right;
+    float: right;
+    padding-bottom: 200px;
+}
+.directions ul{
+   margin-right: 43px;
+}*/
+
+/*
+
+    text-align: right;
+    float: right;
+
+
+border-bottom: 1px solid #6e6e6e;
+    height: 100px;
+    width: 500px;
+
+ <div class="vertical-line"></div>
+.vertical-line {
+  border-left: 1px solid black;
+  height: 100px; /* Change the height as needed */
+}
+*/
